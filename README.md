@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Alex, a B.S. in Industrial Engineering at Georgia Tech with a global perspective and passion for financial engineering, problem-solving, programming, analytics, and optimization
 <br/><br/>
-Currently working on a backester in Python/MATLAB to use in sinkorswim from Charles Schwab
+Currently working on a stock portfolio backester in Python/MATLAB to use in sinkorswim from Charles Schwab
 
 ## Tools & Tech
 * Python, R, MATLAB, SQL

@@ -1,12 +1,15 @@
 ## Hi there 👋
 I'm Alex, a B.S. in Industrial Engineering at Georgia Tech with a global perspective and passion for financial engineering, problem-solving, programming, analytics, and optimization
-
+<br/><br/>
+Currently working on a backester in Python/MATLAB to use in sinkorswim from Charles Schwab
 
 ## Tools & Tech
 * Python, R, MATLAB, SQL
 * Microsoft Office (Excel, Word, PowerPoint)
 
 ## A Bit About Me
+Hawkeye main in Marvel Rivals (never miss)
+<br/><br/>
 Currently Watching: 
 * Ranma ½
 * Inexpressive Kashiwada and Expressive Oota

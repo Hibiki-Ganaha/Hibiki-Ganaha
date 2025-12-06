@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Alex, a B.S. in Industrial Engineering at Georgia Tech with a global perspective and passion for financial engineering, problem-solving, programming, analytics, and optimization
+### I'm Alex, a B.S. in Industrial Engineering at Georgia Tech with a global perspective and passion for financial engineering, problem-solving, programming, analytics, and optimization
 
 <!--
 **Hibiki-Ganaha/Hibiki-Ganaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

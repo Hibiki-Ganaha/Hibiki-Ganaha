@@ -14,7 +14,6 @@ Currently Watching:
 * Ranma ½
 * Inexpressive Kashiwada and Expressive Oota
 * One Punch Man
-* My Dress-Up Darling
 * Marchen Awakens Romance
 
 

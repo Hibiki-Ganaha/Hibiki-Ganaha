@@ -12,8 +12,6 @@ Hawkeye main in Marvel Rivals (never miss)
 <br/><br/>
 Currently Watching: 
 * Ranma ½
-* Inexpressive Kashiwada and Expressive Oota
-* One Punch Man
 * Marchen Awakens Romance
 
 
